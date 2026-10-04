@@ -1,6 +1,6 @@
 # Dhruv Ahire — Ultra 3D Portfolio
 
-This version is a major visual redesign, not the previous green/black portfolio.
+This version is a major visual redesign of portfolio.
 It uses a futuristic dark-space interface, glass panels, neon blue/purple accents,
 a 3D hero scene, profile-photo slot, floating technology cards and 3D project cards.
 
@@ -12,9 +12,7 @@ Use a portrait/vertical photo for the best result.
 Open `index.html` and update:
 - Email
 - LinkedIn
-- Instagram
-- Resume PDF (put it at `assets/Dhruv_Resume.pdf`)
-- Project links when available
+- Github
 
 ## Run
 Open the folder in VS Code and use Live Server on `index.html`.
